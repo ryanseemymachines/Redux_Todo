@@ -1,0 +1,17 @@
+.taskList {
+  padding: 20px;
+}
+
+.taskCard {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.taskCard h3 {
+  margin: 0;
+}
+
+.btnWrapper {
+  display: flex;
+  gap: 20px;
+}

@@ -1,0 +1,15 @@
+.addBtn {
+  border: none;
+  padding: 12px 20px;
+  font-size: 1.2em;
+  border-radius: 16px;
+  background-color: black;
+  color: white;
+}
+
+.addBtn:hover {
+  cursor: pointer;
+  background-color: white;
+  box-shadow: 0 0 10px rgb(185, 184, 184);
+  color: black;
+}
